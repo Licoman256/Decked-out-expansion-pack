@@ -1,0 +1,3 @@
+This world is best experienced in 1.20.1
+Using later versions of minecraft will cause things to break.
+The server resource pack is included.

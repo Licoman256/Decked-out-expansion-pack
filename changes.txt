@@ -1,0 +1,2 @@
+disabled new generation
+trimmed with mcaselector
