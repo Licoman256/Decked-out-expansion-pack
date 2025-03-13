@@ -12,5 +12,29 @@
     },
     "done": false
   },
+  "custom_roleplay_data:custom_roleplay_data": {
+    "criteria": {
+      "tick": "2025-03-13 19:34:52 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2025-03-13 19:34:52 +0100"
+    },
+    "done": true
+  },
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2025-03-13 19:34:52 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:armor_statues": {
+    "criteria": {
+      "tick": "2025-03-13 19:34:52 +0100"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
