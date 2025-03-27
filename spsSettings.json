@@ -1,12 +1,13 @@
 {
-  "gameType": "ADVENTURE",
+  "gameType": "CREATIVE",
   "difficulty": "HARD",
   "cheats": true,
   "invited": [
-    "36e8ed23-3ed7-4fc6-86f3-1d984e0f008b"
+    "24268497-6a56-4132-8699-8d956dfd062d"
   ],
-  "shareResourcePack": false,
+  "shareResourcePack": true,
   "oppedPlayers": [
-    "36e8ed23-3ed7-4fc6-86f3-1d984e0f008b"
+    "36e8ed23-3ed7-4fc6-86f3-1d984e0f008b",
+    "24268497-6a56-4132-8699-8d956dfd062d"
   ]
 }
